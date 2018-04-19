@@ -61,3 +61,21 @@ Going a bit deeper, **Exception levels**, or privilege levels, in order from lea
 These levels are **Userland** (EL0), **Kernel/Supervisor** (EL1), **Hypervisor** (EL2, unused), and **TrustZone**, or "Secure Monitor" (EL3).
 
 If you want to learn more about ARM hypervisors and the trust platform ARMv8 provides, feel free to ask. More reference manuals will be linked to here in due time.
+
+## 3. **Fuses and downgrades**. "Can't we just unburn the fuses?" "Can you replace the burnt fuses?" "What if you just jump the fuses with tweezers?" "Is it possible to just solder a wire across the burnt fuses?" "What if we just took out the fuses and put new ones in?"
+
+### **A:** No, you cannot. The 'fuses' are embedded inside the SoC in a manner such that it is unrealistic to attempt such a thing and expect a working chip when you're done. The fuses cannot be reset.
+
+The only way to bypass the fuse checks would be to gain arbitrary code execution before package1 (an early bootloader) attempts to check them, or to glitch the check with fault-injection. Both of which are Hard Problems™. stuckpixel said it best: "basically, if you have the ability to modify how many fuses are expected, then you have the ability to just sign your own FW."
+
+**More information about the fuses**  
+**Q: What are the fuses?**  
+**A:** The Switch has a range of memory embedded in the SoC which is **only writable once** per bit.  
+They are called fuses because, electronically, that's how they function. They conduct until "blown" with a high current, and then they don't.  
+These fuses are addressed as registers in the memory space.  
+**Q: What are they used for?**
+**A:** In the factory, they are set with console-specific keys and data, as well as factory configuration (am I a devkit? what kind of hardware am I? what revision?)  
+This data remains static, and does not change after the device is shipped. However, there is a "vendor-specific" range of fuses which can be changed on a shipped device.  
+On the Switch, this range of fuses counts the number of system software updates installed to prevent you from installing a lower version of the system software. This is part of the **Anti-Downgrade** protection in the Switch.  
+(For further reference, see [this](http://switchbrew.org/index.php?title=Fuse_registers#Anti-downgrade))
+
