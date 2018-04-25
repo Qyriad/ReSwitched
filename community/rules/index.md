@@ -16,6 +16,7 @@ Don't whine about staff or these rules in public. As per rule 3, do talk private
 1. Read the rules.
     - Read __all__ the rules before participating in chat. *Not reading the rules is not an excuse for breaking them.*
     - It's suggested that you read channel topics, pins, and the VVV-FAQs before asking questions as well, as some questions may have already been answered in those.
+
 2. Be nice to each other.
     It's fine to disagree; it's __not__ fine to insult or attack other people.
     - You may disagree with anyone, but you should try to keep your arguments to __opinions__ and not __people__.
@@ -25,6 +26,7 @@ Don't whine about staff or these rules in public. As per rule 3, do talk private
     - Discriminatory behavior—including sexist, racist, homophobic, transphobic, or ableist behavior—will not be tolerated.
         - In severe cases, such as those that involve use of slurs, hate speech, or targeting of an individual, **such behavior will be considered grounds for an *immediate ban***.
     - Harassment of other users is not tolerated, and will be acted upon as soon as it is brought to our attention.
+
 3. Staff will handle issues directly.
     We have at least one staff member available at all times. Staff have colored roles, and online staff are usually above the other uses in the sidebar. 
     - __If you have concerns about another user__, *please take up your concerns with a staff member* (someone with a colored role in the sidebar) *in private*. **Don't publically call other users out.**
@@ -34,12 +36,14 @@ Don't whine about staff or these rules in public. As per rule 3, do talk private
     - __If you need to discuss something privately__ with all staff, *inform a staff member.* We will open a channel for your input.
         - This also counts for if you need to discuss a vulnerability or exploit you have discovered in private.
     - __We will maintain a best effort of confidentiality among staff.__ However, if one staff member is contacted about a ReSwitched issue, *all staff members may be made aware of your concerns* in order to work together towards a solution or resolution.
+
 4. We will global-ping.  
     Global pings are an easy way to be notified of especially important news regarding Switch.
 
     We ask that you not supress global pings if you wish to make use of homebrew tools and participate in ReSwitched, however we understand that people are typically not happy with having their Discord light up.
 
     All other news, which doesn't require mass-notification, is posted to __#news__.
+
     1. @everyone mentions
         - From time to time, **we may mention @everyone in the server.**
         - We do this when we feel something important is going on that requires attention.
@@ -47,6 +51,7 @@ Don't whine about staff or these rules in public. As per rule 3, do talk private
     2. @here mentions
         - From time to time, *we may mention __@here__ in the server.**
         - We do this when there is something that we need community participation for, such as analysis of console data, or a pre-release which we are running through a final Q.A.
+
     3. Miscellaneous
         - Staff will not abuse this to unnecessarily or randomly ping people.
         - To disable notifications for these pings, supress them in "ReSwitched server menu → Notification Settings".
@@ -54,8 +59,10 @@ Don't whine about staff or these rules in public. As per rule 3, do talk private
         - When a global ping happens, the channel it occured in will be temporarily **locked down** to avoid noise from random users.
             - *Don't use the other channels to discuss the ping unless it's appropriate to do so.*
         - Complaining about these pings may result in a ban.
+
 5. No raids.
     *Don't brigade, raid, or otherwise attack other people or communities. Don't discuss participation in these attacks. This may warrant an immediate permanent ban.
+
 6. Maintain quality, supress noise.
     - Don't spam.
         - For excessively long text, use a service link [0bin](https://0bin.net/)
@@ -79,11 +86,13 @@ Don't whine about staff or these rules in public. As per rule 3, do talk private
             - This server primarily speaks English, and we expect that you communicate clearly.
                 - We will try our best to understand you if English is not your first language or if you do not speak it well or at all and rely on machine translation. We try to remain accessible and friendly.
                     - However, if you do break the other rules, we will still enforce them regardless.
+
 7. Do not evade the rules.
     - The rules are enforced *in spirit*, not strict letter.
     - **You are not a lawyer here.** Rules-lawyering and arguing about the rules in response to being warned or otherwise moderated against will not help your case, and may result in further penalties.
         - If you do need to discuss a change or error in the rules, see Rule 3.
     - **Trying to evade**, look for loopholes, or stay borderline within the rules *will be treated as breaking them.*
+
 8. No piracy.
     - **Absolutely no piracy.**
     - Do not __participate__ in piracy.
@@ -95,6 +104,7 @@ Don't whine about staff or these rules in public. As per rule 3, do talk private
         - If you need to verify one of your keys or other dumps against someone else's or a known-good copy, post a *hash* of the material.
     - For the sake of argument, there are copyrighted works which are under license to be re-shared freely. This does not restrict or forbid those from being shared, or otherwise add or remove restrictions to any license to a user to own, distrubute, share, or use a work or other material.
         - "Copyrighted material" refers to any materials for which the copying and redistribution thereof is forbidden to the user who has a copy.
+
 9. Maintain and acceptable profile.
     - Don't use profile pictures or nicknames with a clear trolling and/or offensive purpose while in this server.
         - Failing to change your profile picture/nickname when requested so by the staff will result in appropriate staff action.
