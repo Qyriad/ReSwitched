@@ -28,7 +28,7 @@ Don't whine about staff or these rules in public. As per rule 3, do talk private
     - Harassment of other users is not tolerated, and will be acted upon as soon as it is brought to our attention.
 
 3. Staff will handle issues directly.
-    We have at least one staff member available at all times. Staff have colored roles, and online staff are usually above the other uses in the sidebar. 
+    We have at least one staff member available at all times. Staff have colored roles, and online staff are usually above the other users in the sidebar. 
     - __If you have concerns about another user__, *please take up your concerns with a staff member* (someone with a colored role in the sidebar) *in private*. **Don't publically call other users out.**
     - __If you have concerns with a staff or moderation action__, *do not complain about it in public.* Take up your issues in private with the staff.
     - __If you feel that you were wrongly kicked, banned, or otherwise removed from the community__ and you cannot contact the staff, *fill out an [appeal form](https://docs.google.com/forms/d/e/1FAIpQLScN7YRN9PY_sn26p8lXk_dJgUBYlx3Qwq_6EYxT5TMR0ie6yQ/viewform)* and we will try to get back to you soon enough.
@@ -49,19 +49,19 @@ Don't whine about staff or these rules in public. As per rule 3, do talk private
         - We do this when we feel something important is going on that requires attention.
         - Important things include, but are not limited to: community changes, new developments in Switch hacking, time-critical announcements, and hardware or software changes which jeopardize the possibility of future homebrew.
     2. @here mentions
-        - From time to time, *we may mention __@here__ in the server.**
+        - From time to time, **we may mention __@here__ in the server.**
         - We do this when there is something that we need community participation for, such as analysis of console data, or a pre-release which we are running through a final Q.A.
 
     3. Miscellaneous
         - Staff will not abuse this to unnecessarily or randomly ping people.
         - To disable notifications for these pings, supress them in "ReSwitched server menu → Notification Settings".
-            - *On desktop: *[*see this GIF*](https://cdn.discordapp.com/attachments/290068297238446082/397605479154450450/2017-12-23_20-57-21.gif)
+            - On desktop: [*see this GIF*](https://cdn.discordapp.com/attachments/290068297238446082/397605479154450450/2017-12-23_20-57-21.gif)
         - When a global ping happens, the channel it occured in will be temporarily **locked down** to avoid noise from random users.
             - *Don't use the other channels to discuss the ping unless it's appropriate to do so.*
         - Complaining about these pings may result in a ban.
 
 5. No raids.
-    *Don't brigade, raid, or otherwise attack other people or communities. Don't discuss participation in these attacks. This may warrant an immediate permanent ban.
+    *Don't brigade, raid, or otherwise attack other people or communities. Don't discuss participation in these attacks. This may warrant an immediate permanent ban.*
 
 6. Maintain quality, supress noise.
     - Don't spam.
@@ -73,7 +73,7 @@ Don't whine about staff or these rules in public. As per rule 3, do talk private
             - Keep low-quality content like memes and shitposting out of the other channels.
             - __#off-topic__ is for *high quality* discussion. ;)
             - Access to the __#off-topic__ channel is through the __@community__ role, and...
-                - is given to users, by staff, when we feel that you are contributing positiviely to the community and the quality of discussion, and we are participating well.
+                - is given to users, by staff, when we feel that you are contributing positively to the community and the quality of discussion, and are participating well.
                 - is not given by request.
                 - is not given based on any particular contribution (e.g., to a dump request, or to the wiki, code, or by reporting a bug).
                 - is given to you, the user, when we feel that you have *earned it*.
@@ -91,7 +91,7 @@ Don't whine about staff or these rules in public. As per rule 3, do talk private
     - The rules are enforced *in spirit*, not strict letter.
     - **You are not a lawyer here.** Rules-lawyering and arguing about the rules in response to being warned or otherwise moderated against will not help your case, and may result in further penalties.
         - If you do need to discuss a change or error in the rules, see Rule 3.
-    - **Trying to evade**, look for loopholes, or stay borderline within the rules *will be treated as breaking them.*
+    - **Trying to evade**, look for loopholes, or stay borderline within the rules *will be treated as breaking them*.
 
 8. No piracy.
     - **Absolutely no piracy.**
